@@ -2,3 +2,4 @@ venv/
 .vscode/
 .pytest_cache/
 .pytest_tmpdir/
+helpers/playground.py
